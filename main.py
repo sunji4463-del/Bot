@@ -1032,7 +1032,7 @@ exec(compile(_WS_SRC, "<ws_checker>", "exec"), ws_checker.__dict__)
 # ==========================================
 # Configuration (Token & Owner ID)
 # ==========================================
-TOKEN = "8877308560:AAEugZrQJq4ERHTln4nNBIvZukjeCeHolWs"
+TOKEN = "8849393356:AAGWwbw72y_E3mz3E7xEJ4Z6MiA8030wRCM"
 BASE_URL = f"https://api.telegram.org/bot{TOKEN}"
 FILE_URL = f"https://api.telegram.org/file/bot{TOKEN}/"
 
